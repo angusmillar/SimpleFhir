@@ -1,0 +1,12 @@
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\SimplePatientUpload.exe.config
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\SimplePatientUpload.exe
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\SimplePatientUpload.pdb
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\Hl7.Fhir.STU3.Core.dll
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\Hl7.Fhir.Support.dll
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\Hl7.FhirPath.dll
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\Newtonsoft.Json.dll
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\System.ValueTuple.dll
+C:\GitRepository\SimpleFhir\SimplePatientUpload\bin\Debug\Newtonsoft.Json.xml
+C:\GitRepository\SimpleFhir\SimplePatientUpload\obj\Debug\SimplePatientUpload.csprojResolveAssemblyReference.cache
+C:\GitRepository\SimpleFhir\SimplePatientUpload\obj\Debug\SimplePatientUpload.exe
+C:\GitRepository\SimpleFhir\SimplePatientUpload\obj\Debug\SimplePatientUpload.pdb

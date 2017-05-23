@@ -1,0 +1,12 @@
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\SimpleSearch.exe.config
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\SimpleSearch.exe
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\SimpleSearch.pdb
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\Hl7.Fhir.STU3.Core.dll
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\Hl7.Fhir.Support.dll
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\Hl7.FhirPath.dll
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\Newtonsoft.Json.dll
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\System.ValueTuple.dll
+C:\GitRepository\SimpleFhir\SimpleSearch\bin\Debug\Newtonsoft.Json.xml
+C:\GitRepository\SimpleFhir\SimpleSearch\obj\Debug\SimpleSearch.exe
+C:\GitRepository\SimpleFhir\SimpleSearch\obj\Debug\SimpleSearch.pdb
+C:\GitRepository\SimpleFhir\SimpleSearch\obj\Debug\SimpleSearch.csprojResolveAssemblyReference.cache

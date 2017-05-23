@@ -1,0 +1,11 @@
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\SimplePatient.exe.config
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\SimplePatient.exe
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\SimplePatient.pdb
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\Hl7.Fhir.STU3.Core.dll
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\Hl7.Fhir.Support.dll
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\Hl7.FhirPath.dll
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\Newtonsoft.Json.dll
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\System.ValueTuple.dll
+C:\GitRepository\SimpleFhir\SimplePatient\bin\Debug\Newtonsoft.Json.xml
+C:\GitRepository\SimpleFhir\SimplePatient\obj\Debug\SimplePatient.exe
+C:\GitRepository\SimpleFhir\SimplePatient\obj\Debug\SimplePatient.pdb

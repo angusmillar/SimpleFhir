@@ -1,0 +1,12 @@
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\SimpleOperation.exe.config
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\SimpleOperation.exe
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\SimpleOperation.pdb
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\Hl7.Fhir.STU3.Core.dll
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\Hl7.Fhir.Support.dll
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\Hl7.FhirPath.dll
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\Newtonsoft.Json.dll
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\System.ValueTuple.dll
+C:\GitRepository\SimpleFhir\SimpleOperation\bin\Debug\Newtonsoft.Json.xml
+C:\GitRepository\SimpleFhir\SimpleOperation\obj\Debug\SimpleOperation.csprojResolveAssemblyReference.cache
+C:\GitRepository\SimpleFhir\SimpleOperation\obj\Debug\SimpleOperation.exe
+C:\GitRepository\SimpleFhir\SimpleOperation\obj\Debug\SimpleOperation.pdb
